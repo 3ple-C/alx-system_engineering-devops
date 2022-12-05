@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq [OPTION]... [INPUT [OUTPUT]]
+uniq filename
