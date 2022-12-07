@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep [13579] 
+ls | grep [013579] 
