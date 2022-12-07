@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep [2468]$ 
+ls | grep -v [2468] 
